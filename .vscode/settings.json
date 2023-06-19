@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Applications/Processing.app/Contents/Java/core/library/core.jar"
+  ],
+  "[java]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "redhat.java"
+  }
+}
